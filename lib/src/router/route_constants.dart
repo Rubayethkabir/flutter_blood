@@ -1,0 +1,41 @@
+// Auth
+const String signInRoute = "signIn";
+const String signUpRoute = "signUp";
+const String forgetPassRoute = "forgetPasswordRoute";
+
+// home
+const String homeRoute = "home";
+const String bloodRoute = "blood";
+const String productRoute = "product"; 
+const String productDetailsRoute = "productDetails"; 
+const String educationRoute = "education";
+const String healthRoute = "health";
+const String newsRoute = "news";
+const String matrimonialRoute = "matrimonial";
+const String aboutusRoute = "aboutus";
+const String profileRoute = "profile";
+const String moreRoute = "more";
+const String pakundiaRoute = "pakundia";
+const String unionRoute = "unions";
+const String pKHeritageRoute = "pkHeritage";
+const String pKCultureRoute = "pkCulture";
+const String hospitalRoute = "hospital";
+const String doctorRoute = "doctor";
+const String institutionRoute = "institution";
+const String tuotorRoute = "tuotor";
+const String dedicatedRoute = "dedicate";
+const String businessRoute = "business";
+const String shopRoute = "shopList";
+const String kenaBechaRoute = "kenaBecha";
+const String educationTipDetailsRoute = "educationTipDetails";
+const String medicalTipDetailsRoute = "medicalTipDetails";
+const String pakundiaMapRoute = "pakundiaMap";
+const String countryRoute = "country";
+const String pkHistoryRoute = "pkHistory";
+const String politicalRoute = "pkPoliticalLead";
+const String unionDetailsRoute = "unionDetails";
+const String importantLinkRoute = "importantRoute";
+const String settingsRoute = "settingsRoute";
+const String profileEditRoute = "profileEditRoute";
+const String profileEditViewRoute = "profileEditViewRoute";
+const String profileViewRoute = "profileViewRoute";
